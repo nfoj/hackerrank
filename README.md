@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="logo/hackerrank-logo.png" ></a>
+	<img src="Image/hackerrank-logo.png" ></a>
 </p>
 <p align="center">
     Solutions to problems on HackerRank
