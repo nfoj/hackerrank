@@ -1,4 +1,4 @@
-.<p align="center">
+<p align="center">
 	<img src="Image/hackerrank-logo.png" ></a>
 </p>
 <p align="center">
