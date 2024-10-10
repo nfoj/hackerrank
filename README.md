@@ -22,3 +22,17 @@
 |        Basic Select         | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)                              |   10   |    Easy    | [solution.sql](https://github.com/nfoj/hackerrank/blob/main/SQL/Japanese-Cities-Attributes/solution.sql)                |
 |        Basic Select         | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                                         |   10   |    Easy    | [solution.sql](https://github.com/nfoj/hackerrank/blob/main/SQL/Japanese-Cities-Names/solution.sql)                     |
 |        Basic Select         | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)                         |   15   |    Easy    | [solution.sql](https://github.com/nfoj/hackerrank/blob/main/SQL/Weather-Observation-Station-1/solution.sql)             |
+
+
+
+### Linux Shell
+<p><img src="https://img.shields.io/badge/Points-11-orange.svg"></p>
+
+|          Subdomain          |                                                          Challenge                                                           | Score  | Difficulty |                                             Solution                                                                    |
+|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------:|
+|        Bash                 | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)                                         |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Lets-Echo/solution.sh)                           |
+|        Bash                 | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)                  |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Looping-and-Skipping/solution.sh)                |
+|        Bash                 | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)                    |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/A-Personalized-Echo/solution.sh)                 |
+|        Bash                 | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)                  |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Looping-with-Numbers/solution.sh)                |
+|        Bash                 | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)                  |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/The-World-of-Numbers/solution.sh)                |
+|        Bash                 | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)                        |   03   |    Easy    | [solution.sh]()                     |
