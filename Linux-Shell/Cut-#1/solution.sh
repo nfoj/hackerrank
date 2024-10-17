@@ -24,3 +24,4 @@ done
 # -c número: Imprime uma lista vertical com o caractere número (da esquerda para direita);
 # -d delimitador: Configura o delimitador que separa uma coluna da outra. O padrão é o Tab;
 # -f número: Imprime a coluna número.
+
