@@ -5,9 +5,9 @@
     Solutions to problems on HackerRank
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-7-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-29-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Rust/Shell/SQL-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/10/2024-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-21/10/2024-brightgreen.svg">
 </p>
 
 ### SQL
