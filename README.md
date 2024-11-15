@@ -5,9 +5,9 @@
     Solutions to problems on HackerRank
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-29-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-51-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Rust/Shell/SQL-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-21/10/2024-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-15/11/2024-brightgreen.svg">
 </p>
 
 ### SQL
@@ -29,7 +29,7 @@
 
 
 ### Linux Shell
-<p><img src="https://img.shields.io/badge/Points-30-orange.svg"></p>
+<p><img src="https://img.shields.io/badge/Points-61-orange.svg"></p>
 
 |          Subdomain          |                                                          Challenge                                                           | Score  | Difficulty |                                             Solution                                                                    |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------:|
@@ -39,7 +39,7 @@
 |        Bash                 | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)                          |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Looping-with-Numbers/solution.sh)                |
 |        Bash                 | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)                          |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/The-World-of-Numbers/solution.sh)                |
 |        Bash                 | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers)                                |   03   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Comparing-Numbers/solution.sh)                     |
-|        Bash                 | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals)                        |   03   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Getting-started-with-conditionals/solution.sh)                     |
+|        Bash                 | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals)|   03   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Getting-started-with-conditionals/solution.sh)                     |
 |        Bash                 | [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals)                          |   03   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/More-on-Conditionals/solution.sh)                     |
 |        Bash                 | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1)                                                        |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Cut-%231/solution.sh)                     |
 |        Bash                 | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2)                                                        |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Cut-%232/solution.sh)                     |
@@ -52,3 +52,27 @@
 |        Bash                 | [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9)                                                        |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Cut-%239/solution.sh)                     |
 |        Bash                 | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1)                                       |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Head-of-a-Text-File-%231/solution.sh)                     |
 |        Bash                 | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2)                                       |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Head-of-a-Text-File-%232/solution.sh)                     |
+|        Bash                 | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem)  |   03   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Middle-of-a-Text-File/solution.sh)                     |
+|        Bash                 | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem?isFullScreen=true)             |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Tail-of-a-Text-File-%231/solution.sh)                      |
+|        Bash                 | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem)                               |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Tail-of-a-Text-File-%232/solution.sh)                     |
+|        Bash                 | ['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem)                                        |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Tr-Command-%231/solution.sh)                     |
+|        Bash                 | ['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem)                                        |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Tr-Command-%232/solution.sh)                     |
+|        Bash                 | ['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem)                                        |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Tr-Command-%233/solution.sh)                     |
+|        Bash                 | [Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%231/solution.sh)                     |
+|        Bash                 | [Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%232/solution.sh)                     |
+|        Bash                 | [Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%233/solution.sh)                     |
+|        Bash                 | [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%234/solution.sh)                     |
+|        Bash                 | [Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%235/solution.sh)                     |
+|        Bash                 | [Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%236/solution.sh)                     |
+|        Bash                 | [Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem)                                      |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Sort-command-%237/solution.sh)                     |
+|        Bash                 | ['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem)               |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Uniq-command-%231/solution.sh)                     |
+|        Bash                 | ['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem)               |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Uniq-command-%232/solution.sh)                     |
+|        Bash                 | ['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)               |   01   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Uniq-command-%233/solution.sh)                     |
+|        Bash                 | ['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem)               |   01   |    Easy    | [solution.sh]()                     |
+|        Bash                 | ['Grep' - A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem)                      |   02   |    Easy    | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Grep-A/solution.sh)                     |
+|        Bash                 | [Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem)                                       		     |   02   |    Medium  | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Paste-1/solution.sh)                     |
+|        Bash                 | [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem)                                       		     |   02   |    Medium  | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Paste-2/solution.sh)                     |
+|        Bash                 | [Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem)                                                           |   02   |    Medium  | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Paste-3/solution.sh)                     |
+|        Bash                 | [Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem)                                                           |   02   |    Medium  | [solution.sh](https://github.com/nfoj/hackerrank/blob/main/Linux-Shell/Paste-4/solution.sh)                     |
+
+
