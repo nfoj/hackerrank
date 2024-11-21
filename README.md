@@ -7,7 +7,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-51-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Rust/Shell/SQL-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-15/11/2024-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-20/11/2024-brightgreen.svg">
 </p>
 
 ### SQL
@@ -29,7 +29,7 @@
 
 
 ### Linux Shell
-<p><img src="https://img.shields.io/badge/Points-110-orange.svg"></p>
+<p><img src="https://img.shields.io/badge/Points-141-orange.svg"></p>
 
 |          Subdomain          |                                                          Challenge                                                           | Score  | Difficulty |                                             Solution                                                                    |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------:|
