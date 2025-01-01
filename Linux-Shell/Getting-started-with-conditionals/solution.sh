@@ -23,7 +23,7 @@ else
 fi
 
 
-# Solution
+# Solution_01
 read i
 if [ $i = "y" ] || [ $i = "Y" ]; then
     echo "YES"

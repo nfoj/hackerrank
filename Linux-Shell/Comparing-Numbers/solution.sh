@@ -26,7 +26,7 @@ else
 fi
 
 
-# Solution
+# Solution_01
 read x;
 read y;
 

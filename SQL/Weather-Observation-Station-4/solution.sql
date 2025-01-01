@@ -30,3 +30,29 @@ total number of records - number of unique city names
 
 SELECT COUNT(CITY) - COUNT(DISTINCT CITY)
 FROM STATION;
+
+/*
+
+Note: 
+
+City number
+
+SELECT COUNT(CITY)
+FROM STATION;
+
+Result =  499
+
+#!----------------!#
+
+City Distinct 
+
+SELECT COUNT(DISTINCT CITY)
+FROM STATION;
+
+Result = 486
+
+#!---------------!#
+
+499 - 486 = 13
+
+*/

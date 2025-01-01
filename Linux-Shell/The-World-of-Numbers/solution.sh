@@ -21,7 +21,7 @@ echo "$((a * b))"
 echo "$((a / b))"
 
 
-# Solution 
+# Solution_01
 read a
 read b
 
@@ -31,7 +31,7 @@ echo "$[a*b]"
 echo "$[a/b]"
 
 
-# Solution
+# Solution_02
 read a
 read b
 
@@ -41,7 +41,7 @@ echo `expr $a \* $b `
 echo `expr $a / $b `
 
 
-# Solution
+# Solution_03
 read X
 read Y
 
