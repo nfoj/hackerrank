@@ -16,7 +16,7 @@ The STUDENTS table is described as follows:
 
 only contains uppercase (A-Z) and lowercase (a-z) letters.
 
-Sample Input
+# Input
 
 | ID | Name     | Marks |
 |----|----------|-------|
@@ -25,7 +25,7 @@ Sample Input
 | 4  | Julia    | 76    |
 | 3  | Belvet   | 84    |
 
-Output
+# Output
 
 Ashley
 Julia
