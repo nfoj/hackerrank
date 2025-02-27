@@ -43,3 +43,11 @@ The CITY and COUNTRY tables are described as follows:
 
 
 -- Solution
+
+SELECT Country.Continent, FLOOR(AVG(City.Population))
+FROM City INNER JOIN Country ON City.CountryCode = Country.Code
+GROUP BY Coutnry.Continent;
+
+
+-- Solution_01
+
